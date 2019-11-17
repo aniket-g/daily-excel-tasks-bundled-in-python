@@ -12,7 +12,7 @@ The list of functions and libraries are as follows:-
   https://www.shanelynn.ie/merge-join-dataframes-python-pandas-index-1/
 * sort_values() - To sort the values in order (ascending or descending)
 * drop_duplicates() - To drop the duplicate values using single or multiple column conditions
-* np.where() - To assign the value on conditional basis
+* isnull() - True if value is empty, false if value is not empty
 * replace() - To replace the value with another value
 * to_datetime() - To convert date column into datetime format, through which we can perform time series analysis of data
 * astype() - To change the data type
